@@ -1,5 +1,5 @@
 # Desktop
-## Available Scripts
+## Scripts disponibles
 
 En el directorio del proyecto, puede ejecutar:
 
